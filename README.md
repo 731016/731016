@@ -1,10 +1,5 @@
 ### Hello World 👋
 
-
-**731016/731016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 个人简历 [731016.github.io](https://731016.github.io)
 - 🌱 [图片库](https://github.com/731016/imgSave)
 - 👯 
