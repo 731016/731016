@@ -1,5 +1,5 @@
 ### Hello World 👋
-<a href="https://blog.csdn.net/qq_41666142"><img src="https://img.shields.io/badge/csdn-%E8%A2%AB%E8%AE%BF%E9%97%AE%E9%87%8F287%2C380%EF%BC%8C%E6%8E%92%E5%90%8D6026%EF%BC%8C%E7%B2%89%E4%B8%9D120-success"></a>
+<a href="https://blog.csdn.net/qq_41666142"><img src="https://img.shields.io/badge/csdn-%E8%A2%AB%E8%AE%BF%E9%97%AE%E9%87%8F287%2C384-green"></a>
 <a href="https://gitee.com/LovelyHzz"><img src="https://img.shields.io/badge/Gitee-9%E4%B8%AA%E9%A1%B9%E7%9B%AE-orange"></a>
 - 🔭 个人简历 [731016.github.io](https://731016.github.io)
 - 🌱 [图片库](https://github.com/731016/imgSave)
