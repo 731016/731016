@@ -1,10 +1,10 @@
 ### Hello World 👋
-<a href="https://blog.csdn.net/qq_41666142"><img src="https://img.shields.io/badge/csdn-%E8%A2%AB%E8%AE%BF%E9%97%AE%E9%87%8F301%2C456-yellowgreen"></a>
-<a href="https://gitee.com/LovelyHzz"><img src="https://img.shields.io/badge/Gitee-9%E4%B8%AA%E9%A1%B9%E7%9B%AE-orange"></a>
+<a href="https://blog.csdn.net/qq_41666142"><img src="https://img.shields.io/badge/csdn-%E8%A2%AB%E8%AE%BF%E9%97%AE%E9%87%8F404%2C980-yellowgreen"></a>
+<a href="https://gitee.com/LovelyHzz"><img src="https://img.shields.io/badge/gitee-15projects-orange"></a>
 - 🔭 个人简历 [731016.github.io](https://731016.github.io)
 - 🌱 [图片库](https://github.com/731016/imgSave)
 - 👯 [程序员鱼皮](https://github.com/liyupi)
-- 🤔 [学习笔记](https://gitee.com/LovelyHzz/study-notes/blob/master/README.md)
+- 🤔 [前端+后端学习笔记](https://gitee.com/LovelyHzz/study-notes/blob/master/README.md)
 - 💬 issue...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
