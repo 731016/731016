@@ -1,16 +1,16 @@
 ### Hello World 👋
 <a href="https://blog.csdn.net/qq_41666142"><img src="https://img.shields.io/badge/csdn-%E8%A2%AB%E8%AE%BF%E9%97%AE%E9%87%8F404%2C980-yellowgreen"></a>
 <a href="https://gitee.com/LovelyHzz"><img src="https://img.shields.io/badge/gitee-15projects-orange"></a>
-- 🔭 个人简历 [731016.github.io](https://731016.github.io)
-- 🤔 [学习笔记](http://119.3.104.52:3000)
-- 💬 [个人博客](http://xiaofei.work/)
-- 📫 [CSDN](https://blog.csdn.net/qq_41666142)
+- 🔭 <a href="https://731016.github.io" target="_blank">个人简历</a>
+- 🤔 <a href="http://119.3.104.52:3000" target="_blank">学习笔记</a>
+- 💬 <a href="http://xiaofei.work/" target="_blank">个人博客</a>
+- 📫 <a href="https://blog.csdn.net/qq_41666142" target="_blank">CSDN</a>
 
 
  ⚡以下是我发布用来演示的网站
-- [快递代取系统 SpringBoot](http://119.3.104.52:8080)
-- [天天生鲜交易平台 SSM](http://119.3.104.52:8081)
-- [Lie flat房屋出租平台](http://119.3.104.52:8082)
+- <a href="http://119.3.104.52:8080" target="_blank">快递代取系统</a>
+- <a href="http://119.3.104.52:8081" target="_blank">天天生鲜交易平台</a>
+- <a href="http://119.3.104.52:8082" target="_blank">Lie flat房屋出租平台</a>
 
 ## 今年汇总 ✨
 
